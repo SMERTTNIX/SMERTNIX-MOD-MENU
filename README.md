@@ -15,7 +15,7 @@ NDK для aide
 
 Приложения
 * [ NP Manager](https://firebasestorage.googleapis.com/v0/b/hwid-e39d5.appspot.com/o/NP%E7%AE%A1%E7%90%86%E5%99%A8_3.0.64.apk?alt=media&token=1579d693-749d-43dc-a5a7-ff536d4c9f96) - стабильная версия
-* [ MT Manager]()
+* [ MT Manager](https://firebasestorage.googleapis.com/v0/b/wordsoft-43a03.appspot.com/o/MT%20Manager_2.13.4-clone_23040183.apk?alt=media&token=70acc420-b21b-4432-8b15-460bc2b0f79f)
 
 Код для вшития
 * invoke-static {p0}, Lil2cpp/Main;->start(Landroid/content/Context;)V
