@@ -1,4 +1,4 @@
-# SMERTNIX MOD MENU 
+﻿# SMERTNIX MOD MENU 
 Мод меню для ваших игр!
 Видео обучения
 * [Как сделать мод меню](https://youtube.com/playlist?list=PLRCWtCOif7PCUVcsIsPlqXSIhFM23-l4P) 
